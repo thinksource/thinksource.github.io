@@ -31,11 +31,12 @@ body, button, input, select, textarea {
 	font: 500 18px/1.8 'Hiragino Sans GB', sans-serif;
 }
 
-/* 去掉各Table  cell 的边距并让其边重合
+/* 去掉各Table  cell 的边距并让其边重合*/
 table {
 	border-collapse: collapse;
 	border-spacing: 1;
-} */
+	border: 1px;
+}
 
 /* IE bug fixed: th 不继承 text-align*/
 th {
