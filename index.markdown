@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Peter's Corner
+title: Sherwin's Corner
 ---
 
-HI there, I am Peter Wang, an [Open Source][oss] enthusiast. This site is
+HI there, I am Sherwin Lu, an [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
 I am a screencastr at <http://haoduoshipin.com>.
