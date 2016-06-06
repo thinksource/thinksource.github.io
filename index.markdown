@@ -20,15 +20,12 @@ I am a screencastr at <http://haoduoshipin.com>.
 
 <ul>
 
-<li><a href="http://c2.com/cgi/wiki?PeterWang">Wikiwikiweb</a></li>
-
-<li><a href="http://github.com/happypeter/">Github</a></li>
 
 </ul>
 <p><br /><b>Contact Information:</b></p>
 
 <blockquote>
-欢迎所有朋友加我微信：happypeter1983
+欢迎所有朋友加我微信：sheng673571
 </blockquote>
 
 [oss]:http://en.wikipedia.org/wiki/Open_source
