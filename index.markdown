@@ -6,7 +6,7 @@ title: Sherwin's Corner
 HI there, I am Sherwin Lu, an [Open Source][oss] enthusiast. This site is
 dedicated to providing information about [me](resume.html) and [what I do](/work).
 
-I am a screencastr at <http://haoduoshipin.com>.
+I am a screencastr at <>.
 
 
 <p><br /><b>My Blog:</b></p>
