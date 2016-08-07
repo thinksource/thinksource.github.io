@@ -1,4 +1,4 @@
-#The coaching habit: Say less, Ask More & Change the way you lead forever
+# The coaching habit: Say less, Ask More & Change the way you lead forever
 
 ### 1,当你不知如何开始时
 what’s on your mind?
