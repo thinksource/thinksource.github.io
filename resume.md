@@ -1,6 +1,6 @@
 ---
 layout: post
-title: thinksource 是谁？
+title: who is thinksource?
 ---
 <!--<img src="./images/peter.jpg" alt="Peter Face" />
 -->
